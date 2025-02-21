@@ -23,7 +23,15 @@ Me sigam no Github para ficar por dentro dos projetos que estou desenvolvendo ou
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+<br />
+<br />
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Earl%20Nightingale&quote=People%20who%20have%20goals%20succeed%20because%20they%20know%20where%20they're%20going.%20It's%20that%20simple.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
   
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+
+
+
